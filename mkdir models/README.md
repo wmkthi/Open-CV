@@ -1,8 +1,8 @@
 # Colorize Black & White Images with Python
-Like RGB, Lab is another color space. It is also three channel color space like RGB where the channels are:
-L channel: This channel represents the Lightness
-a channel: This channel represents green-red
-b channel: This channel represents blue-yellow
+<p>Like RGB, Lab is another color space. It is also three channel color space like RGB where the channels are:</p>
+<p>L channel: This channel represents the Lightness</p>
+<p>a channel: This channel represents green-red</p>
+<p>b channel: This channel represents blue-yellow</p>
 In this color space, the grayscale part of the image is only encoded in L channel. Therefore Lab color space is more favorable.
 <p align="center">
   <figure class="image">
